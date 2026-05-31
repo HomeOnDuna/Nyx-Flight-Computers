@@ -5,7 +5,162 @@
 	(uuid "dafc85b1-c0f9-403d-85a6-df42232b82bd")
 	(paper "A3")
 	(lib_symbols
-		(symbol "16g acc:BMI323"
+		(symbol "Device:C"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C"
+				(at 0.635 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Unpolarized capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "C_0_1"
+				(polyline
+					(pts
+						(xy -2.032 0.762) (xy 2.032 0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -0.762) (xy 2.032 -0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "UNSW Rocketry library:BMI323"
 			(pin_names
 				(offset 0.254)
 			)
@@ -34,7 +189,7 @@
 					)
 				)
 			)
-			(property "Footprint" "BMI323_BOS"
+			(property "Footprint" "UNSW Rocketry Library:BMI323_BOS"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -63,16 +218,6 @@
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -405,7 +550,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Barometer:LPS22DFTR"
+		(symbol "UNSW Rocketry library:LPS22DFTR"
 			(pin_names
 				(offset 1.016)
 			)
@@ -436,7 +581,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "LPS22DFTR:XDCR_LPS22DFTR"
+			(property "Footprint" "UNSW Rocketry Library:XDCR_LPS22DFTR"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -737,162 +882,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:C"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "C"
-				(at 0.635 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "C"
-				(at 0.635 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0.9652 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Unpolarized capacitor"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "cap capacitor"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "C_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "C_0_1"
-				(polyline
-					(pts
-						(xy -2.032 0.762) (xy 2.032 0.762)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.032 -0.762) (xy 2.032 -0.762)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "C_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 2.794)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.794)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "IMU:LSM6DSV80XTR"
+		(symbol "UNSW Rocketry library:LSM6DSV80XTR"
 			(pin_names
 				(offset 0.254)
 			)
@@ -921,7 +911,7 @@
 					)
 				)
 			)
-			(property "Footprint" "QFN_LSM6DSV80XTR_STM"
+			(property "Footprint" "UNSW Rocketry Library:QFN_LSM6DSV80XTR_STM"
 				(at 0.762 11.938 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -950,16 +940,6 @@
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1294,7 +1274,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "high-alt Baro:MS561101BA03-50"
+		(symbol "UNSW Rocketry library:MS561101BA03-50"
 			(pin_names
 				(offset 0.254)
 			)
@@ -1323,7 +1303,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SON8_MS5611_TEC"
+			(property "Footprint" "UNSW Rocketry Library:SON8_MS5611_TEC"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1352,16 +1332,6 @@
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3358,7 +3328,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Barometer:LPS22DFTR")
+		(lib_id "UNSW Rocketry library:LPS22DFTR")
 		(at 237.49 41.91 0)
 		(mirror y)
 		(unit 1)
@@ -3389,7 +3359,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Baro 1:XDCR_LPS22DFTR"
+		(property "Footprint" "UNSW Rocketry Library:XDCR_LPS22DFTR"
 			(at 237.49 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -3940,7 +3910,7 @@
 		)
 	)
 	(symbol
-		(lib_id "16g acc:BMI323")
+		(lib_id "UNSW Rocketry library:BMI323")
 		(at 212.09 71.12 0)
 		(unit 1)
 		(body_style 1)
@@ -3971,7 +3941,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BMI323:BMI323_BOS"
+		(property "Footprint" "UNSW Rocketry Library:BMI323_BOS"
 			(at 212.09 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -4747,7 +4717,7 @@
 		)
 	)
 	(symbol
-		(lib_id "IMU:LSM6DSV80XTR")
+		(lib_id "UNSW Rocketry library:LSM6DSV80XTR")
 		(at 121.92 67.31 0)
 		(unit 1)
 		(body_style 1)
@@ -4778,8 +4748,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Acc 1:QFN_LSM6DSV80XTR_STM"
-			(at 121.92 67.31 0)
+		(property "Footprint" "UNSW Rocketry Library:QFN_LSM6DSV80XTR_STM"
+			(at 122.682 55.372 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4791,7 +4761,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lsm6dsv80x.pdf"
-			(at 121.92 67.31 0)
+			(at 121.412 51.308 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4909,7 +4879,7 @@
 		)
 	)
 	(symbol
-		(lib_id "high-alt Baro:MS561101BA03-50")
+		(lib_id "UNSW Rocketry library:MS561101BA03-50")
 		(at 139.7 43.18 0)
 		(unit 1)
 		(body_style 1)
@@ -4940,7 +4910,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ms5611:SON8_MS5611_TEC"
+		(property "Footprint" "UNSW Rocketry Library:SON8_MS5611_TEC"
 			(at 139.7 43.18 0)
 			(hide yes)
 			(show_name no)

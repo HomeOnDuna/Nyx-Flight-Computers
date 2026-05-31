@@ -412,6 +412,10 @@
         "Shared ground"
       ],
       [
+        "pin_to_pin|2159000|-482600|817dfb2e-312d-4c89-ab0d-ed1c6954cc93|a0acfc29-8e6f-4e07-8645-9522f8243282|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6",
+        "Current Sharing"
+      ],
+      [
         "pin_to_pin|2159000|-558800|9242ae96-a16c-4da0-9ef6-fc55d923362d|1c232e0e-6e1e-4039-b1a2-d54ae84ec031|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6",
         "Power supply has been used before in this exact config"
       ],
