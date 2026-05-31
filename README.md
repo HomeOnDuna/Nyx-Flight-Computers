@@ -1,5 +1,15 @@
 # Nyx-Flight-Computer
-Contains code for the Nyx flight computer developed for UNSW Rocketry Avionics team.
+Contains all details of the Nyz family of flight computers developed by Timothy Paige for UNSW rocketry
+
+How to use:
+ - Make a local clone of the repositry
+ - Open the project you want from the file it is in
+ - Enjoy!
+
+To add parts to the library:
+ - All parts first go in the UNSW Rocketry parts folder
+ - Then copy changes across to every project folder (or the entire folder, don't care
+ - Remember 3D models must be .step, you need footprints and symbols!
 
 Current capabilites:
  - Literally nothing
