@@ -1537,7 +1537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BMI323_BOS"
+		(property "Footprint" "UNSW Rocketry Library:BMI323_BOS"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1566,16 +1566,6 @@
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1939,7 +1929,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CMI-1295-03TH:SPKR_CMI-1295-03TH"
+		(property "Footprint" "UNSW Rocketry Library:SPKR_CMI-1295-03TH"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3431,7 +3421,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DBV0005A_N"
+		(property "Footprint" "UNSW Rocketry Library:DBV0005A_N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3460,16 +3450,6 @@
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4897,7 +4877,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "ESP32-S3-WROOM-1U-N4:XCVR_ESP32-S3-WROOM-1U-N4"
+		(property "Footprint" "UNSW Rocketry Library:XCVR_ESP32-S3-WROOM-1U-N4"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6855,7 +6835,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "LPS22DFTR:XDCR_LPS22DFTR"
+		(property "Footprint" "UNSW Rocketry Library:XDCR_LPS22DFTR"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7185,7 +7165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "QFN_LSM6DSV80XTR_STM"
+		(property "Footprint" "UNSW Rocketry Library:QFN_LSM6DSV80XTR_STM"
 			(at 0.762 11.938 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7214,16 +7194,6 @@
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8039,7 +8009,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT-363/SC-88/SC70-6/CASE419B_OSI"
+		(property "Footprint" "UNSW Rocketry Library:SOT-363&slash_SC-88&slash_SC70-6&slash_CASE419B_OSI"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8068,16 +8038,6 @@
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9227,7 +9187,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SON8_MS5611_TEC"
+		(property "Footprint" "UNSW Rocketry Library:SON8_MS5611_TEC"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9256,16 +9216,6 @@
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9521,7 +9471,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MSD-10-C:CUI_MSD-10-C"
+		(property "Footprint" "UNSW Rocketry Library:CUI_MSD-10-C"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10225,7 +10175,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC_09DY-T1-GE3_VIS"
+		(property "Footprint" "UNSW Rocketry Library:SOIC_09DY-T1-GE3_VIS"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10254,16 +10204,6 @@
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10814,7 +10754,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "TB002-500-02BE:CUI_TB002-500-02BE"
+		(property "Footprint" "UNSW Rocketry Library:CUI_TB002-500-02BE"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11316,7 +11256,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RNM0015A"
+		(property "Footprint" "UNSW Rocketry Library:RNM0015A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11345,16 +11285,6 @@
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11736,7 +11666,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "USB4110GFA:GCT_USB4110GFA"
+		(property "Footprint" "UNSW Rocketry Library:GCT_USB4110GFA"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
