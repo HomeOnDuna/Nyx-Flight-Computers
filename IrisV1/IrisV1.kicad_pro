@@ -62,10 +62,6 @@
       ],
       "drc_exclusions": [
         [
-          "lib_footprint_mismatch|147661950|98378350|076f3e89-7c2b-480f-aca8-1afd08ad3ba0|00000000-0000-0000-0000-000000000000",
-          "Silkscreen changes to make nicer. Elec is ident"
-        ],
-        [
           "missing_courtyard|140802444|93234643|14200328-6c50-4d30-afca-32c9ccf6a475|00000000-0000-0000-0000-000000000000",
           "Logos do not have Footprints lol"
         ]
