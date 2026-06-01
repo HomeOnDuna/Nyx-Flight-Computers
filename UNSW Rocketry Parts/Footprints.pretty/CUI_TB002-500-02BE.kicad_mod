@@ -6,7 +6,7 @@
 	(property "Reference" "REF**"
 		(at 0.945 -5.989 0)
 		(layer "F.SilkS")
-		(uuid "3914c669-4cf5-49e2-a58a-56645cd8075b")
+		(uuid "a3898179-930c-4cd0-9aae-a25b1422a71d")
 		(effects
 			(font
 				(size 1.4 1.4)
@@ -17,7 +17,7 @@
 	(property "Value" "CUI_TB002-500-02BE"
 		(at 12.502 4.861 0)
 		(layer "F.Fab")
-		(uuid "b2410fb5-c6bf-4727-8173-69a1a551d3e2")
+		(uuid "da93153d-1a3d-41df-bfb9-c6cfa7f7cf79")
 		(effects
 			(font
 				(size 1.4 1.4)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ec045f50-e593-4052-865a-a5037bb52ee9")
+		(uuid "56bfbd00-e089-4a66-a274-5ac519663805")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -40,7 +40,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "5c735dcb-1072-426a-aee1-92a3bbb9fa82")
+		(uuid "c9cedac4-5f06-4782-9506-c3010cd7829b")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -57,7 +57,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "f6dd7c2a-b606-46c0-8387-c29e58be8d65")
+		(uuid "90a1e752-aafd-4555-be47-1d018cfbb9bc")
 	)
 	(fp_line
 		(start -2.5 3.5)
@@ -67,7 +67,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "ec0fa83f-cd22-453b-a861-901a74fc1eef")
+		(uuid "47f641b7-e0fb-4d73-8968-ef3eb82452a5")
 	)
 	(fp_line
 		(start 7.5 -4.1)
@@ -77,7 +77,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "6d1a4ca4-1195-4762-9990-484e7847747d")
+		(uuid "b88d2573-e69d-4769-9c88-f368b805317a")
 	)
 	(fp_line
 		(start 7.5 3.5)
@@ -87,7 +87,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "7506df40-54be-4f36-bcec-3fa683f8bb1e")
+		(uuid "eced6c11-c9ed-49e9-9954-172c61dd14f7")
 	)
 	(fp_circle
 		(center 0 3)
@@ -98,7 +98,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "5e20c09e-9ec8-40b1-a40f-4d86c9196566")
+		(uuid "5cb9e869-c0d8-46cd-b955-ab8933f129c2")
 	)
 	(fp_line
 		(start -2.75 -4.35)
@@ -108,7 +108,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "033c4116-75e0-4c61-938d-68b92eab3f9d")
+		(uuid "17e45c7a-82fc-4323-96be-e888027e2145")
 	)
 	(fp_line
 		(start -2.75 3.75)
@@ -118,7 +118,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "a1f8b5f1-008f-4f3f-b1d3-52ccb2980998")
+		(uuid "bd82eea9-786a-48fc-990f-cf9312133cb9")
 	)
 	(fp_line
 		(start 7.75 -4.35)
@@ -128,7 +128,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "7d847a33-0fe6-4958-8016-e38ea9098fb6")
+		(uuid "662362ed-22fb-43c4-ad24-a6693f9968bb")
 	)
 	(fp_line
 		(start 7.75 3.75)
@@ -138,7 +138,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "15f3be6c-26d5-46c1-91cc-72cc91c0f030")
+		(uuid "c5e8cf61-3eeb-4312-912c-9d24068927c2")
 	)
 	(fp_line
 		(start -2.5 -4.1)
@@ -148,7 +148,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "7846b9d9-2d21-4919-94fa-0e5877594ee2")
+		(uuid "cc64ba9b-564a-4deb-9002-3a0835f7b47d")
 	)
 	(fp_line
 		(start -2.5 3.5)
@@ -158,7 +158,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "9c14aaf4-59ed-41dc-bace-2cf3d6586e36")
+		(uuid "81e1e4d5-b669-458e-80a6-dd55ddf19f42")
 	)
 	(fp_line
 		(start 7.5 -4.1)
@@ -168,7 +168,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "71f33bfe-1feb-402b-bf1d-eab1ab8923a4")
+		(uuid "2b9c1fec-72c4-47af-9ef3-50ec0c5e9f0d")
 	)
 	(fp_line
 		(start 7.5 3.5)
@@ -178,7 +178,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "8c0f0ac9-7cf3-4cc1-b484-1f4804715f6b")
+		(uuid "47c68769-b45f-464c-8bf1-ca2e89a7fb86")
 	)
 	(fp_circle
 		(center 0 3)
@@ -189,7 +189,7 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "6438d862-9d54-4844-83a5-9491e402e5d3")
+		(uuid "154c9680-3f1a-48f5-87e2-885ed03afb48")
 	)
 	(pad "1" thru_hole rect
 		(at 0 0)
@@ -198,7 +198,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(solder_mask_margin 0.102)
-		(uuid "430d7af9-a168-47f7-a515-83cf99acf4cd")
+		(uuid "5c8f1963-727e-415d-a691-bd57ccba0559")
 	)
 	(pad "2" thru_hole circle
 		(at 5 0)
@@ -207,10 +207,10 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(solder_mask_margin 0.102)
-		(uuid "b13b77e8-8de4-4d91-a6d2-6c4becfd0c5e")
+		(uuid "cf64ede4-a953-4e17-9b20-254ded90eb0f")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/timot/OneDrive/Documents/UNSW/Societies/Rocketry/PCB and Avionics/Kicad parts/Outputs/5mm Screw Terminal TB002_500_02BE/TB002-500-02BE.step"
+	(model "../UNSW Rocketry Parts/3D models/TB002-500-02BE.step"
 		(offset
 			(xyz 7.5 4.25 0)
 		)

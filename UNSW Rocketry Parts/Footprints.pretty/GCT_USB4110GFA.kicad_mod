@@ -6,7 +6,7 @@
 	(property "Reference" "REF**"
 		(at -1.425 -3.135 0)
 		(layer "F.SilkS")
-		(uuid "7ca82f53-1936-4cab-afb9-fe3ff12f38c7")
+		(uuid "1971208a-be73-490a-ae90-45fea7cbce6d")
 		(effects
 			(font
 				(size 1 1)
@@ -17,7 +17,7 @@
 	(property "Value" "GCT_USB4110GFA"
 		(at 4.29 7.265 0)
 		(layer "F.Fab")
-		(uuid "0fb97348-ca8a-48c1-81db-c32bdb6201b7")
+		(uuid "a1c6a232-8a4c-4ee6-aacd-6042ed01a1e9")
 		(effects
 			(font
 				(size 1 1)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "615785ff-014b-4798-9082-50afa5adce0e")
+		(uuid "477a5fe4-7f99-4cbf-907a-80b4accce9fa")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -40,7 +40,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "a7ad619c-c14a-4ebc-86e6-88d3fa320cfb")
+		(uuid "f497f5bf-60a9-4b38-a7ae-59fb46b94e32")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -57,7 +57,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "a5d2b580-4f07-4aac-b8e1-23e7674a38a9")
+		(uuid "ba576aa6-39c7-4466-a8d5-1a0fed97f1cd")
 	)
 	(fp_line
 		(start -4.47 4.79)
@@ -67,7 +67,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "307a4637-f2fa-46ba-89e8-b8c4b40ee30b")
+		(uuid "82302240-cad0-479a-ba9e-31d1a6077e9e")
 	)
 	(fp_line
 		(start -4.47 6.28)
@@ -77,7 +77,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "52acc6e3-91f3-4f3c-a605-8f776e6106b9")
+		(uuid "d84154e9-b6f3-435c-9e22-512052cc3068")
 	)
 	(fp_line
 		(start 4.47 0.86)
@@ -87,7 +87,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "4ab6019a-75db-4d41-b3f2-5c7310d7a05d")
+		(uuid "0b865d5e-a563-4389-a359-c5cf79970395")
 	)
 	(fp_line
 		(start 4.47 6.28)
@@ -97,7 +97,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "3e3fee7b-088f-4d80-9caf-149a50bc3a29")
+		(uuid "515209e0-4976-4fe0-8170-120c57ac6f53")
 	)
 	(fp_circle
 		(center -3.78 -2.23)
@@ -108,7 +108,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "8ffe1070-583f-495e-9e8f-18914b2c8656")
+		(uuid "58b91762-2f0e-442b-8970-75334818d9cb")
 	)
 	(fp_line
 		(start -6.45 -1.9)
@@ -118,7 +118,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "7c5c572b-8efb-42f4-9ebf-83ee926052e3")
+		(uuid "2dba6a83-74fc-4f4f-95d4-85ad50dab1cf")
 	)
 	(fp_line
 		(start -6.45 6.53)
@@ -128,7 +128,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "191b234c-0a3e-43ad-b051-b6f74a2b9021")
+		(uuid "a34d3029-98ee-49c2-8a8d-10628c54bbd5")
 	)
 	(fp_line
 		(start 6.45 -1.9)
@@ -138,7 +138,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "ae64697a-8642-4284-9421-749b8941e19a")
+		(uuid "fd5a8e13-7d0d-45d4-a058-aedd59388cbd")
 	)
 	(fp_line
 		(start 6.45 6.53)
@@ -148,7 +148,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "027d7dbc-e564-4095-8747-b475b3f34cbe")
+		(uuid "8fea443e-9de3-4a1c-90ae-b9d8c00c3c7e")
 	)
 	(fp_line
 		(start -4.47 -1.07)
@@ -158,7 +158,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "422614cf-4548-4732-8a60-02f1f8c8b851")
+		(uuid "7881a720-121b-49a4-9d86-e849483fa80a")
 	)
 	(fp_line
 		(start -4.47 6.28)
@@ -168,7 +168,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "c8c11722-4bc5-41b4-a02c-df3c3b89ad00")
+		(uuid "2b582ff0-b722-44b9-88d0-bd3060ecd28d")
 	)
 	(fp_line
 		(start 4.47 -1.07)
@@ -178,7 +178,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "24d1ed93-5b45-4893-894b-723a9f0f7853")
+		(uuid "6e8024df-c041-4060-8dac-997023463253")
 	)
 	(fp_line
 		(start 4.47 6.28)
@@ -188,7 +188,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "e350ec8e-3252-423b-ac11-955245b16b20")
+		(uuid "017bf070-b7aa-4049-aadf-86d803d6115d")
 	)
 	(fp_circle
 		(center -3.78 -2.23)
@@ -199,136 +199,136 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "69fcfc7f-f6d9-4cd6-9042-e63fd5e9ce86")
+		(uuid "99926645-f5ec-4739-b830-bd036b9e23be")
 	)
 	(pad "" np_thru_hole circle
 		(at -2.89 0)
 		(size 0.65 0.65)
 		(drill 0.65)
 		(layers "*.Cu" "*.Mask")
-		(uuid "253acb7d-6cf3-4d1d-85ef-d144bf851efd")
+		(uuid "6118b802-3e2f-4cd0-996d-791655669724")
 	)
 	(pad "" np_thru_hole circle
 		(at 2.89 0)
 		(size 0.65 0.65)
 		(drill 0.65)
 		(layers "*.Cu" "*.Mask")
-		(uuid "df03e4af-e32b-4432-97f3-f45df0fef8de")
+		(uuid "e8e5243d-099e-46cc-8624-d2d633d07cbf")
 	)
 	(pad "A1/B12" smd rect
 		(at -3.2 -1.075)
 		(size 0.6 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "0780d7e9-e0be-4813-a78d-e22123fbdedb")
+		(uuid "57e92aa3-6eb7-4a10-a2bf-4b68cbdc5f4c")
 	)
 	(pad "A4/B9" smd rect
 		(at -2.4 -1.075)
 		(size 0.6 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "29d8234d-5724-4396-801f-0b285a3dc704")
+		(uuid "1ed2da36-699b-4447-ae60-c5f19b27ee1e")
 	)
 	(pad "A5" smd rect
 		(at -1.25 -1.075)
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "79bf9ecb-b9a4-4b0e-a747-beca19ed692d")
+		(uuid "a081b2ac-a0e9-477d-a364-85928ba5a11b")
 	)
 	(pad "A6" smd rect
 		(at -0.25 -1.075)
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "79e4d7fd-93ba-4259-aec7-b88eb57510be")
+		(uuid "1c867118-6194-4eb4-85f1-22f7f22b90da")
 	)
 	(pad "A7" smd rect
 		(at 0.25 -1.075)
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "e1a1d7f4-bb80-4ff8-b2de-a143ed9260a7")
+		(uuid "7989e434-c54e-4d62-bf38-0231ac8368b5")
 	)
 	(pad "A8" smd rect
 		(at 1.25 -1.075)
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "cbab8422-9c7b-45a4-a15c-f8caf0de1847")
+		(uuid "b19d1dbf-8c5e-4932-8082-32d795f5145d")
 	)
 	(pad "B1/A12" smd rect
 		(at 3.2 -1.075)
 		(size 0.6 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "d65dca8a-b65f-4bd9-a745-33b6178c61e3")
+		(uuid "64aa4a5f-1b84-4939-a95b-0a2c4cde3306")
 	)
 	(pad "B4/A9" smd rect
 		(at 2.4 -1.075)
 		(size 0.6 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "b6288e35-ee49-4a8f-a008-f8d099b9821b")
+		(uuid "ae15d290-bbaa-4433-9aa1-052e841ab38c")
 	)
 	(pad "B5" smd rect
 		(at 1.75 -1.075)
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "f0ef452b-fd18-4882-b1cd-8207c078c756")
+		(uuid "77d7406c-cc56-4603-901b-67864d8e2d43")
 	)
 	(pad "B6" smd rect
 		(at 0.75 -1.075)
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "8518cd06-3064-4721-a1f9-c5cb8966da4a")
+		(uuid "43a8cef3-4e5e-4a53-9f7b-4bf4c6491b38")
 	)
 	(pad "B7" smd rect
 		(at -0.75 -1.075)
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "9613984e-37ed-4805-bd63-ba3c6f980ff9")
+		(uuid "3f8f42ab-769d-4371-8012-f64a61049a0a")
 	)
 	(pad "B8" smd rect
 		(at -1.75 -1.075)
 		(size 0.3 1.15)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "5ca42a4a-adaf-4e2a-b22a-937c5585b22b")
+		(uuid "b903ccd5-d4ee-45d8-b13d-287c0f66de89")
 	)
 	(pad "S1" smd rect
 		(at -5.11 -0.5)
 		(size 2.18 2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "fd227438-db3a-4854-ade3-8b758ca68e0f")
+		(uuid "f232f8a8-3603-49f6-ad2d-268635e39403")
 	)
 	(pad "S2" smd rect
 		(at 5.11 -0.5)
 		(size 2.18 2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "3a11444b-04fa-4580-9b3f-157673a4f827")
+		(uuid "b31404c5-e087-4b4c-a398-0ed38248f8d5")
 	)
 	(pad "S3" smd rect
 		(at -5.11 3.43)
 		(size 2.18 2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "506b823f-e0d6-4662-aa1a-c12fcbe3c4fb")
+		(uuid "f1336d7e-e2fa-4ffe-baea-387eaed08c91")
 	)
 	(pad "S4" smd rect
 		(at 5.11 3.43)
 		(size 2.18 2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "c629a500-ddff-4ae1-a399-7e4ededed3ae")
+		(uuid "6b41e38a-29df-49ca-9e1d-f0dd581ad08d")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/timot/OneDrive/Documents/UNSW/Societies/Rocketry/PCB and Avionics/Kicad parts/Outputs/USB4110_GF_A USB2.0 C/USB4110GFA.step"
+	(model "C:/Users/timot/OneDrive/Documents/UNSW/Societies/Rocketry/PCB and Avionics/Nyx-Flight-Computers/UNSW Rocketry Parts/3D models/USB4110GFA.step"
 		(offset
 			(xyz 0 0 0)
 		)

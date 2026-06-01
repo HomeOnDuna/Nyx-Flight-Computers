@@ -6,7 +6,7 @@
 	(property "Reference" "REF**"
 		(at 0.575 -16.635 0)
 		(layer "F.SilkS")
-		(uuid "665d0e21-9b9f-4866-be2c-46a3c6ee297e")
+		(uuid "9343ad12-a503-43a0-8afa-bc4dd17b248a")
 		(effects
 			(font
 				(size 1 1)
@@ -17,7 +17,7 @@
 	(property "Value" "XDCR_AI-3035-TT-12V-R"
 		(at 10.735 16.635 0)
 		(layer "F.Fab")
-		(uuid "031888ed-e6f7-40c0-85c0-02cb5fcfcceb")
+		(uuid "0e7d17e4-88fb-429a-b59e-75632880ef2d")
 		(effects
 			(font
 				(size 1 1)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "f3ad9953-2deb-4935-8798-2d58d6e5c873")
+		(uuid "745bcfdf-102d-48ba-af68-fa1babf8cdb6")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -40,7 +40,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "a05f268b-e0b9-4aed-9759-090f7e0a2e71")
+		(uuid "ff6d21ff-e9e2-4946-9c33-0b3be12b1c8f")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -57,7 +57,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "3d190927-e641-463b-9139-91f8651a2cd1")
+		(uuid "51658929-c561-4d52-bbac-a6ac1ba941b6")
 	)
 	(fp_line
 		(start -17.145 -0.635)
@@ -67,7 +67,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "aca494b7-5bad-4a8f-96d4-10b39e867254")
+		(uuid "ef19b2c8-6169-498c-8611-8468607b0c84")
 	)
 	(fp_line
 		(start 15.875 0)
@@ -77,7 +77,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "a41f4535-a495-44d7-b934-9b0cd7b1c8a1")
+		(uuid "36199847-c303-47b1-8dc9-7d39994597aa")
 	)
 	(fp_circle
 		(center 0 0)
@@ -88,7 +88,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "b3d127d6-fe44-4ad0-a5ee-35e603dca814")
+		(uuid "60db1d88-7ed6-4cab-b517-36a399992242")
 	)
 	(fp_circle
 		(center 0 0)
@@ -99,7 +99,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "e363fd11-e12b-4819-87f5-b5eb452068f7")
+		(uuid "ff948357-da53-43b3-a47a-1fd206de51f5")
 	)
 	(fp_line
 		(start -17.78 0)
@@ -109,7 +109,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "925f30c7-d479-4a79-8e00-4562ddf06bc1")
+		(uuid "bdfa39b5-a95e-4194-88a2-f68e3ab21db9")
 	)
 	(fp_line
 		(start -17.145 -0.635)
@@ -119,7 +119,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "14095f84-f429-4dff-b2d6-d7d3f6f834fb")
+		(uuid "df0f433f-19b7-49d1-8889-a63a5556aedf")
 	)
 	(fp_line
 		(start 15.875 0)
@@ -129,7 +129,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "d8787fc4-0dde-4782-a657-da181e06e5ea")
+		(uuid "6229fad8-0cde-43d2-89a6-e954d49decf6")
 	)
 	(fp_circle
 		(center 0 0)
@@ -140,7 +140,7 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "5aad2618-d370-4ff2-be91-de9bf10d562b")
+		(uuid "ccdacf65-6868-43a0-a525-02331c6e784c")
 	)
 	(pad "N" thru_hole circle
 		(at 7.5 0)
@@ -149,7 +149,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(solder_mask_margin 0.102)
-		(uuid "fe21f62f-16a3-4afc-afcd-f8a0052f86c2")
+		(uuid "d60fb0ff-266b-44b5-947f-5e63e4c324a7")
 	)
 	(pad "P" thru_hole circle
 		(at -7.5 0)
@@ -158,10 +158,10 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(solder_mask_margin 0.102)
-		(uuid "b16a97e0-5788-4c56-8d30-cba86c6b658d")
+		(uuid "60f24657-921d-42c2-9e2d-4d0ff9f526d9")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/timot/OneDrive/Documents/UNSW/Societies/Rocketry/PCB and Avionics/Kicad parts/Outputs/AI_3035_TT_12V_R Buzzer/AI-3035-TT-12V-R.step"
+	(model "../UNSW Rocketry Parts/3D models/AI-3035-TT-12V-R.step"
 		(offset
 			(xyz 0 0 10)
 		)
