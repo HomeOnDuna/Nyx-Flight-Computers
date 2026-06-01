@@ -74,15 +74,7 @@
           "Intended for 2 types of buzzer, not an issue"
         ],
         [
-          "missing_courtyard|144500000|95750000|88e38fbd-c639-41cf-a33b-5593e0067a8b|00000000-0000-0000-0000-000000000000",
-          "SIlkscreen logo does not have a footprint to speak of"
-        ],
-        [
           "missing_courtyard|152250000|47850000|2a759dc7-edde-4a30-841a-5c1769a1f56a|00000000-0000-0000-0000-000000000000",
-          "SIlkscreen logo does not have a footprint to speak of"
-        ],
-        [
-          "missing_courtyard|154325000|85250000|53d60802-ae7e-400c-9fff-aa8053ce7861|00000000-0000-0000-0000-000000000000",
           "SIlkscreen logo does not have a footprint to speak of"
         ],
         [
@@ -104,6 +96,10 @@
         [
           "silk_overlap|128918800|63590374|909bd773-9d17-45e6-86ff-b5eecc270234|9b967e81-d4e0-42de-92a0-4539f763d74b",
           "Footprint clash, not an actual issue"
+        ],
+        [
+          "silk_overlap|157894047|56929819|27ae24bf-165e-459b-b312-a63f3ed09bfb|6a9da198-6817-4819-a21d-85e72d746b3e",
+          "Best that can be done, still legible"
         ],
         [
           "starved_thermal|115525000|77900000|1989a4cb-377b-4924-8f3a-77d23290bcb6|fc2a69b6-c241-4426-a901-ff02a58fb3d4|In1.Cu",
