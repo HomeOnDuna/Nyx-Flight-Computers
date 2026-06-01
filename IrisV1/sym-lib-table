@@ -1,4 +1,4 @@
 (sym_lib_table
 	(version 7)
-	(lib (name "UNSW Rocketry library") (type "KiCad") (uri "${KIPRJMOD}/UNSW Rocketry parts (Place inside project folder!)") (options "") (descr ""))
+	(lib (name "UNSW Rocketry library") (type "KiCad") (uri "${KIPRJMOD}/../UNSW Rocketry Parts/UNSW Rocketry Symbols.kicad_sym") (options "") (descr ""))
 )
