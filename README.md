@@ -1,15 +1,23 @@
 # Nyx-Flight-Computer
-Contains all details of the Nyz family of flight computers developed by Timothy Paige for UNSW rocketry
+Contains all details of the Nyx family of flight computers developed by Timothy Paige for UNSW rocketry
 
 How to use:
- - Make a local clone of the repositry
+ - Make a local clone of the entire repositry
  - Open the project you want from the file it is in
  - Enjoy!
 
 To add parts to the library:
- - All parts first go in the UNSW Rocketry parts folder
- - Then copy changes across to every project folder (or the entire folder, don't care
- - Remember 3D models must be .step, you need footprints and symbols!
+ - All parts go in the UNSW Rocketry parts folder (single parrts library)
+ - Open a project and add the symbol into the UNSW Rocketry Library (symbol library, via import)
+ - Put the footprint in the footprints.pretty folder of the parts folder
+ - Put the 3D model in the 3D models folder
+ - In the project, edit the symbol you have imported and assign the default footprint to the footprints.pretty folder footprint (.kicad_mod)
+ - Edit the footprint you just added to add in the 3D model
+
+How to reference filepaths:
+**Do not use the default filepaths KiCAD generates. These will only work on your device!**
+ - Remove the filepath up to Nyx-Flight-Computers (leave the \ after this)
+ - Insert .. before this, which then re-references to a relative filepath (permitting multi-device use).
 
 Current capabilites:
  - Literally nothing
