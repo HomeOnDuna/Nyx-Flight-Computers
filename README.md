@@ -14,7 +14,7 @@ To add parts to the library:
  - In the project, edit the symbol you have imported and assign the default footprint to the footprints.pretty folder footprint (.kicad_mod)
  - Edit the footprint you just added to add in the 3D model
 
-How to refernce filepaths:
+How to reference filepaths:
 **Do not use the default filepaths KiCAD generates. These will only work on your device!**
  - Remove the filepath up to Nyx-Flight-Computers (leave the \ after this)
  - Insert .. before this, which then re-references to a relative filepath (permitting multi-device use).
