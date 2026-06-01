@@ -86,22 +86,6 @@
           "SIlkscreen logo does not have a footprint to speak of"
         ],
         [
-          "silk_over_copper|119732663|72252934|2d71d53b-cbda-45fa-9e75-2b2e0d264115|00000000-0000-0000-0000-000000000000",
-          "Still legible, best possible"
-        ],
-        [
-          "silk_over_copper|119733223|69714285|c45a1359-eb46-4a3f-8bb1-edcd19319523|00000000-0000-0000-0000-000000000000",
-          "Still legible, best possible"
-        ],
-        [
-          "silk_over_copper|123907336|66677065|4fefb55a-99ba-496c-940e-580f56f769ff|00000000-0000-0000-0000-000000000000",
-          "Still legible, best possible"
-        ],
-        [
-          "silk_over_copper|123940000|69548719|7542872e-5e54-43b0-8665-9804cab76d2a|00000000-0000-0000-0000-000000000000",
-          "Still legible, best possible"
-        ],
-        [
           "silk_over_copper|127703972|84920000|0f8a8148-39e1-4434-b089-b76de8a728e1|00000000-0000-0000-0000-000000000000",
           "Not needed, weird footprint"
         ],
@@ -114,40 +98,12 @@
           "Not needed, weird footprint"
         ],
         [
-          "silk_overlap|117638495|52559101|b61ab594-0971-47b8-8993-36a22556eefd|f2e018da-aac8-4cdb-bd10-ea49c520bf47",
-          "Identical silkscreen, weird footprint"
-        ],
-        [
-          "silk_overlap|119776066|56769999|19e7230b-fcf2-4954-bad9-d1251283e503|a64a2fb1-f05e-4aca-9161-57a27ea08d31",
-          "Identical silkscreen due to weird footprint"
-        ],
-        [
-          "silk_overlap|124776814|71626813|7542872e-5e54-43b0-8665-9804cab76d2a|817e6dba-49c3-478c-a11d-dc1b90b4f636",
-          "Best possible, still legible"
-        ],
-        [
-          "silk_overlap|126198866|103299999|0ad2ff15-4af3-40ae-87ce-e8811c6c27cc|7a3fae63-d859-405b-a586-b4d57bbca941",
-          "Identical silkscreen, weird footprint"
-        ],
-        [
           "silk_overlap|128918800|63217100|0e99eaa9-1389-48ec-8463-59df18b7d712|909bd773-9d17-45e6-86ff-b5eecc270234",
           "Footprint clash, not an actual issue"
         ],
         [
           "silk_overlap|128918800|63590374|909bd773-9d17-45e6-86ff-b5eecc270234|9b967e81-d4e0-42de-92a0-4539f763d74b",
           "Footprint clash, not an actual issue"
-        ],
-        [
-          "silk_overlap|132000000|76592914|05ecdb57-70ab-448d-85db-247eed118f26|4560ba3f-d54d-48a4-a345-5bff46c1a3f3",
-          "Identical silkscreen, weird footprint"
-        ],
-        [
-          "silk_overlap|134159420|63110000|4f271e31-ea66-479e-a894-4368bcac167d|5a7f6fa1-2798-43b0-be34-fef0f268d911",
-          "Still legible and best approach"
-        ],
-        [
-          "silk_overlap|147639999|59615120|10081df3-3cc2-41a2-9fa9-393f9d1ae9f3|3c2db3b8-ad47-4b31-9d3c-53b5bb2c1f2a",
-          "Best possible, still legible"
         ],
         [
           "starved_thermal|115525000|77900000|1989a4cb-377b-4924-8f3a-77d23290bcb6|fc2a69b6-c241-4426-a901-ff02a58fb3d4|In1.Cu",
@@ -180,6 +136,10 @@
         [
           "starved_thermal|140980000|82150000|1989a4cb-377b-4924-8f3a-77d23290bcb6|c4c7ee4b-75c2-4bec-9d96-a779e25626cf|F.Cu",
           "Best thermal relief possible is in place"
+        ],
+        [
+          "starved_thermal|143250000|67875000|1989a4cb-377b-4924-8f3a-77d23290bcb6|37996e3b-f277-4781-a2cf-e7878cdd5e1d|F.Cu",
+          "Best that can be done"
         ],
         [
           "starved_thermal|149485600|58500000|1989a4cb-377b-4924-8f3a-77d23290bcb6|4609d35d-4eb8-40fe-9da8-8abcdfe69a80|F.Cu",
@@ -396,56 +356,8 @@
   "erc": {
     "erc_exclusions": [
       [
-        "footprint_link_issues|1244600|1727200|f94d5124-f2d3-45e7-a68c-522cb2e32916|00000000-0000-0000-0000-000000000000|||",
-        "Works fine lol"
-      ],
-      [
-        "footprint_link_issues|1422400|1028700|c953ecd9-1fcb-494f-9760-54cbc5b7a3dc|00000000-0000-0000-0000-000000000000|||",
-        "Works just fine"
-      ],
-      [
-        "footprint_link_issues|1447800|584200|9641a09e-3d4f-4471-b1a8-7bfbbe65ea23|00000000-0000-0000-0000-000000000000|||",
-        "Works just fine"
-      ],
-      [
-        "footprint_link_issues|1460500|1727200|3eb39968-f239-4115-8f72-b318076fee7b|00000000-0000-0000-0000-000000000000|||",
-        "Works just fine"
-      ],
-      [
-        "footprint_link_issues|1498600|2286000|73d5edf2-a7f5-4842-af3c-756bdadaa1bc|00000000-0000-0000-0000-000000000000|||",
-        "works just fine"
-      ],
-      [
-        "footprint_link_issues|2184400|660400|92d4b693-f440-4c18-b66e-574065dca783|00000000-0000-0000-0000-000000000000|||",
-        "Works just fine"
-      ],
-      [
-        "footprint_link_issues|2336800|1397000|3eec457c-1511-4520-9f33-3435449657a6|00000000-0000-0000-0000-000000000000|||",
-        "works fine regardless"
-      ],
-      [
-        "footprint_link_issues|2336800|2120900|208b2f3b-33e1-4917-aed9-09a47d564cea|00000000-0000-0000-0000-000000000000|||",
-        "works fine regardless"
-      ],
-      [
-        "lib_symbol_issues|1308100|1384300|4ad044ed-f965-4ab4-9636-6cd4c7e9d4f7|00000000-0000-0000-0000-000000000000|||",
-        "Works just fine"
-      ],
-      [
-        "lib_symbol_issues|1816100|838200|f57994b1-bfa8-49a7-ab3c-1ee2f954eb88|00000000-0000-0000-0000-000000000000|||",
-        "works just fine"
-      ],
-      [
-        "lib_symbol_mismatch|2159000|723900|a743e236-d855-4fc2-8c89-5cf429f27e9c|00000000-0000-0000-0000-000000000000|||",
-        "works just fine"
-      ],
-      [
         "pin_to_pin|1168400|431800|d534329a-1853-423d-9c16-4cf4bc0473cf|8d972b32-80f8-4046-8048-190e5d37230f|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/8ee69959-b6b0-4a66-a250-46cbc366a662|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/8ee69959-b6b0-4a66-a250-46cbc366a662|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/8ee69959-b6b0-4a66-a250-46cbc366a662",
         "Shared ground"
-      ],
-      [
-        "pin_to_pin|1193800|1752600|efb57d2f-f20e-44fa-b920-d253332d9820|a35d3fda-85ee-471f-b9dc-ce9c351cd301|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/8ee69959-b6b0-4a66-a250-46cbc366a662",
-        "Ground pull-down"
       ],
       [
         "pin_to_pin|1219200|698500|7e657c39-c924-422b-8327-d5ad6eeba33b|d534329a-1853-423d-9c16-4cf4bc0473cf|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/8ee69959-b6b0-4a66-a250-46cbc366a662|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/8ee69959-b6b0-4a66-a250-46cbc366a662|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/8ee69959-b6b0-4a66-a250-46cbc366a662",
@@ -464,24 +376,12 @@
         "current sharing"
       ],
       [
-        "pin_to_pin|1295400|1752600|0344b295-52e5-4a5b-8706-248a185a95ca|a35d3fda-85ee-471f-b9dc-ce9c351cd301|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/8ee69959-b6b0-4a66-a250-46cbc366a662",
-        "Ground pull-down"
-      ],
-      [
         "pin_to_pin|1308100|1460500|a0dae39f-e993-4842-bf74-4230ac72156c|b09490c9-7e18-4100-98a1-0462cc360b7d|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/c2bef9ef-acd0-49dd-8d46-6828b014cd54|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/c2bef9ef-acd0-49dd-8d46-6828b014cd54|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/9ae35838-74d4-4822-8092-0759d2e3d2b3",
         "Usb power input"
       ],
       [
         "pin_to_pin|1308100|1816100|48d0378d-a238-4dd8-88c3-15541054bf55|294b1013-05a3-40ca-bea9-1b6bb973bd83|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/c2bef9ef-acd0-49dd-8d46-6828b014cd54|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/c2bef9ef-acd0-49dd-8d46-6828b014cd54|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/c2bef9ef-acd0-49dd-8d46-6828b014cd54",
         "power input bypass"
-      ],
-      [
-        "pin_to_pin|1409700|1752600|06c0c211-5b13-4c9b-a0bf-4db33735d0d7|a35d3fda-85ee-471f-b9dc-ce9c351cd301|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/8ee69959-b6b0-4a66-a250-46cbc366a662",
-        "Ground pull-down"
-      ],
-      [
-        "pin_to_pin|1511300|1752600|3c125c9f-1baa-4c6b-be4d-f536e3252c96|a35d3fda-85ee-471f-b9dc-ce9c351cd301|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/8ee69959-b6b0-4a66-a250-46cbc366a662",
-        "Ground pull-down"
       ],
       [
         "pin_to_pin|1600200|1003300|30be8078-7ab4-4d2f-bc96-e97e3a8b3a90|75370b38-9fe5-4a77-859f-b0b76fe29c76|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/c2bef9ef-acd0-49dd-8d46-6828b014cd54|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/c2bef9ef-acd0-49dd-8d46-6828b014cd54|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/c2bef9ef-acd0-49dd-8d46-6828b014cd54",
@@ -701,10 +601,6 @@
       ],
       [
         "pin_to_pin|711200|711200|0f7987cc-9686-4a55-861b-0baffc85395e|8ba572ed-4240-4115-90d2-263b05f17b0b|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/6b18415a-a9dd-47e8-9bb8-12f8b7c25ded|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/6b18415a-a9dd-47e8-9bb8-12f8b7c25ded|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/6b18415a-a9dd-47e8-9bb8-12f8b7c25ded",
-        "Per pyro config"
-      ],
-      [
-        "pin_to_pin|800100|914400|844e3c33-93fa-48b8-9ac4-9953024f7d59|5c8ed2d2-b2c0-4b3d-a030-65fa65716e5b|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/6b18415a-a9dd-47e8-9bb8-12f8b7c25ded|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/6b18415a-a9dd-47e8-9bb8-12f8b7c25ded|/2b3c3500-0352-4a4d-99d0-7372bf6db9f6/6b18415a-a9dd-47e8-9bb8-12f8b7c25ded",
         "Per pyro config"
       ],
       [

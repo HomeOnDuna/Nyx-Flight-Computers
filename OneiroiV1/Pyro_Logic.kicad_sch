@@ -300,7 +300,301 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "NPN BJT 1:MBT3904DW1T1G"
+		(symbol "UNSW Rocketry Library:DMP3085LSD-13"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 20.32 10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "DMP3085LSD-13"
+				(at 20.32 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "IC_DMP3028LSD-13_DIO"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+				)
+			)
+			(property "Datasheet" "DMP3085LSD-13"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "DMP3085LSD-13"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "IC_DMP3028LSD-13_DIO IC_DMP3028LSD-13_DIO-M IC_DMP3028LSD-13_DIO-L"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "DMP3085LSD-13_0_1"
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 7.62 -12.7)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -12.7) (xy 33.02 -12.7)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 33.02 5.08) (xy 7.62 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 33.02 -12.7) (xy 33.02 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "DMP3085LSD-13_1_1"
+				(pin unspecified line
+					(at 0 0 0)
+					(length 7.62)
+					(name "Source_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -2.54 0)
+					(length 7.62)
+					(name "Gate_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -5.08 0)
+					(length 7.62)
+					(name "Source_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -7.62 0)
+					(length 7.62)
+					(name "Gate_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 -7.62 180)
+					(length 7.62)
+					(name "Drain_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 -5.08 180)
+					(length 7.62)
+					(name "Drain_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 -2.54 180)
+					(length 7.62)
+					(name "Drain_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 0 180)
+					(length 7.62)
+					(name "Drain_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "UNSW Rocketry Library:MBT3904DW1T1G"
 			(pin_names
 				(offset 0.254)
 			)
@@ -329,7 +623,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SOT-363/SC-88/SC70-6/CASE419B_OSI"
+			(property "Footprint" "UNSW Rocketry Library:SOT-363&slash_SC-88&slash_SC70-6&slash_CASE419B_OSI"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -358,16 +652,6 @@
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -940,7 +1224,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "NPN BJT 2:MMDT5551-7-F"
+		(symbol "UNSW Rocketry Library:MMDT5551-7-F"
 			(pin_names
 				(offset 0.254)
 			)
@@ -1196,7 +1480,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PMOS MOSFET 1:SI4909DY-T1-GE3"
+		(symbol "UNSW Rocketry Library:SI4909DY-T1-GE3"
 			(pin_names
 				(offset 0.254)
 			)
@@ -1225,7 +1509,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SOIC_09DY-T1-GE3_VIS"
+			(property "Footprint" "UNSW Rocketry Library:SOIC_09DY-T1-GE3_VIS"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1254,16 +1538,6 @@
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1488,36 +1762,38 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PMOS MOSFET 2:DMP3085LSD-13"
+		(symbol "UNSW Rocketry Library:TB002-500-02BE"
 			(pin_names
-				(offset 0.254)
+				(offset 1.016)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at 20.32 10.16 0)
+			(property "Reference" "J"
+				(at -5.58 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
-						(size 1.524 1.524)
+						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Value" "DMP3085LSD-13"
-				(at 20.32 7.62 0)
+			(property "Value" "TB002-500-02BE"
+				(at -5.08 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
-						(size 1.524 1.524)
+						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Footprint" "IC_DMP3028LSD-13_DIO"
+			(property "Footprint" "UNSW Rocketry Library:CUI_TB002-500-02BE"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1525,11 +1801,11 @@
 				(effects
 					(font
 						(size 1.27 1.27)
-						(italic yes)
 					)
+					(justify bottom)
 				)
 			)
-			(property "Datasheet" "DMP3085LSD-13"
+			(property "Datasheet" ""
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1537,7 +1813,6 @@
 				(effects
 					(font
 						(size 1.27 1.27)
-						(italic yes)
 					)
 				)
 			)
@@ -1552,17 +1827,7 @@
 					)
 				)
 			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "DMP3085LSD-13"
+			(property "STANDARD" "Manufacturer Recommendations"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1571,9 +1836,10 @@
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 				)
 			)
-			(property "ki_fp_filters" "IC_DMP3028LSD-13_DIO IC_DMP3028LSD-13_DIO-M IC_DMP3028LSD-13_DIO-L"
+			(property "MANUFACTURER" "CUI"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1582,199 +1848,53 @@
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 				)
 			)
-			(symbol "DMP3085LSD-13_0_1"
-				(polyline
-					(pts
-						(xy 7.62 5.08) (xy 7.62 -12.7)
-					)
+			(symbol "TB002-500-02BE_0_0"
+				(rectangle
+					(start -5.08 -2.54)
+					(end 5.08 5.08)
 					(stroke
-						(width 0.127)
+						(width 0.254)
 						(type default)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
-				(polyline
-					(pts
-						(xy 7.62 -12.7) (xy 33.02 -12.7)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 33.02 5.08) (xy 7.62 5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 33.02 -12.7) (xy 33.02 5.08)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "DMP3085LSD-13_1_1"
-				(pin unspecified line
-					(at 0 0 0)
-					(length 7.62)
-					(name "Source_1"
+				(pin passive line
+					(at -10.16 2.54 0)
+					(length 5.08)
+					(name "1"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 					(number "1"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 				)
-				(pin unspecified line
-					(at 0 -2.54 0)
-					(length 7.62)
-					(name "Gate_1"
+				(pin passive line
+					(at -10.16 0 0)
+					(length 5.08)
+					(name "2"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 					(number "2"
 						(effects
 							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -5.08 0)
-					(length 7.62)
-					(name "Source_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -7.62 0)
-					(length 7.62)
-					(name "Gate_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 40.64 -7.62 180)
-					(length 7.62)
-					(name "Drain_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 40.64 -5.08 180)
-					(length 7.62)
-					(name "Drain_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 40.64 -2.54 180)
-					(length 7.62)
-					(name "Drain_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 40.64 0 180)
-					(length 7.62)
-					(name "Drain_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
@@ -2007,146 +2127,6 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "screw terminal:TB002-500-02BE"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at -5.58 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "TB002-500-02BE"
-				(at -5.08 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "TB002-500-02BE:CUI_TB002-500-02BE"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MANUFACTURER" "CUI"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(symbol "TB002-500-02BE_0_0"
-				(rectangle
-					(start -5.08 -2.54)
-					(end 5.08 5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at -10.16 2.54 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -10.16 0 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
 					)
 				)
 			)
@@ -4692,7 +4672,7 @@
 		)
 	)
 	(symbol
-		(lib_id "screw terminal:TB002-500-02BE")
+		(lib_id "UNSW Rocketry Library:TB002-500-02BE")
 		(at 39.37 21.59 270)
 		(mirror x)
 		(unit 1)
@@ -4725,7 +4705,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "screw terminal:CUI_TB002-500-02BE"
+		(property "Footprint" "UNSW Rocketry Library:CUI_TB002-500-02BE"
 			(at 39.37 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -5043,7 +5023,7 @@
 		)
 	)
 	(symbol
-		(lib_id "screw terminal:TB002-500-02BE")
+		(lib_id "UNSW Rocketry Library:TB002-500-02BE")
 		(at 55.88 128.27 0)
 		(unit 1)
 		(body_style 1)
@@ -5076,7 +5056,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "screw terminal:CUI_TB002-500-02BE"
+		(property "Footprint" "UNSW Rocketry Library:CUI_TB002-500-02BE"
 			(at 55.88 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -5309,7 +5289,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PMOS MOSFET 1:SI4909DY-T1-GE3")
+		(lib_id "UNSW Rocketry Library:SI4909DY-T1-GE3")
 		(at 217.17 95.25 0)
 		(unit 1)
 		(body_style 1)
@@ -5340,7 +5320,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pyro 1:SOIC_09DY-T1-GE3_VIS"
+		(property "Footprint" "UNSW Rocketry Library:SOIC_09DY-T1-GE3_VIS"
 			(at 217.17 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -5569,7 +5549,7 @@
 		)
 	)
 	(symbol
-		(lib_id "NPN BJT 2:MMDT5551-7-F")
+		(lib_id "UNSW Rocketry Library:MMDT5551-7-F")
 		(at 20.32 66.04 0)
 		(unit 1)
 		(body_style 1)
@@ -5581,7 +5561,7 @@
 		(fields_autoplaced yes)
 		(uuid "6253511e-1e20-4ebc-b963-769928a0f964")
 		(property "Reference" "U7"
-			(at 45.72 55.88 0)
+			(at 55.88 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5591,7 +5571,7 @@
 			)
 		)
 		(property "Value" "MMDT5551-7-F"
-			(at 45.72 58.42 0)
+			(at 55.88 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5600,8 +5580,8 @@
 				)
 			)
 		)
-		(property "Footprint" "npn 2:SOT-363_DIO"
-			(at 20.32 66.04 0)
+		(property "Footprint" "UNSW Rocketry Library:SOT-363_DIO"
+			(at 40.64 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5613,7 +5593,7 @@
 			)
 		)
 		(property "Datasheet" "MMDT5551-7-F"
-			(at 20.32 66.04 0)
+			(at 40.64 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6957,7 +6937,7 @@
 		)
 	)
 	(symbol
-		(lib_id "NPN BJT 1:MBT3904DW1T1G")
+		(lib_id "UNSW Rocketry Library:MBT3904DW1T1G")
 		(at 215.9 72.39 0)
 		(unit 1)
 		(body_style 1)
@@ -6988,7 +6968,7 @@
 				)
 			)
 		)
-		(property "Footprint" "npn 1:SOT-363&slash_SC-88&slash_SC70-6&slash_CASE419B_OSI"
+		(property "Footprint" "UNSW Rocketry Library:SOT-363&slash_SC-88&slash_SC70-6&slash_CASE419B_OSI"
 			(at 215.9 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -7209,7 +7189,7 @@
 		)
 	)
 	(symbol
-		(lib_id "screw terminal:TB002-500-02BE")
+		(lib_id "UNSW Rocketry Library:TB002-500-02BE")
 		(at 238.76 17.78 90)
 		(unit 1)
 		(body_style 1)
@@ -7241,7 +7221,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "screw terminal:CUI_TB002-500-02BE"
+		(property "Footprint" "UNSW Rocketry Library:CUI_TB002-500-02BE"
 			(at 238.76 17.78 0)
 			(hide yes)
 			(show_name no)
@@ -7393,7 +7373,7 @@
 		)
 	)
 	(symbol
-		(lib_id "screw terminal:TB002-500-02BE")
+		(lib_id "UNSW Rocketry Library:TB002-500-02BE")
 		(at 241.3 148.59 0)
 		(mirror x)
 		(unit 1)
@@ -7426,7 +7406,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "screw terminal:CUI_TB002-500-02BE"
+		(property "Footprint" "UNSW Rocketry Library:CUI_TB002-500-02BE"
 			(at 241.3 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -8063,7 +8043,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PMOS MOSFET 2:DMP3085LSD-13")
+		(lib_id "UNSW Rocketry Library:DMP3085LSD-13")
 		(at 39.37 91.44 0)
 		(unit 1)
 		(body_style 1)
@@ -8094,7 +8074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pyro 2:IC_DMP3028LSD-13_DIO"
+		(property "Footprint" "UNSW Rocketry Library:IC_DMP3028LSD-13_DIO"
 			(at 39.37 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -8571,7 +8551,7 @@
 		)
 	)
 	(symbol
-		(lib_id "screw terminal:TB002-500-02BE")
+		(lib_id "UNSW Rocketry Library:TB002-500-02BE")
 		(at 55.88 120.65 0)
 		(unit 1)
 		(body_style 1)
@@ -8604,7 +8584,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "screw terminal:CUI_TB002-500-02BE"
+		(property "Footprint" "UNSW Rocketry Library:CUI_TB002-500-02BE"
 			(at 55.88 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -8756,7 +8736,7 @@
 		)
 	)
 	(symbol
-		(lib_id "screw terminal:TB002-500-02BE")
+		(lib_id "UNSW Rocketry Library:TB002-500-02BE")
 		(at 241.3 156.21 0)
 		(mirror x)
 		(unit 1)
@@ -8789,7 +8769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "screw terminal:CUI_TB002-500-02BE"
+		(property "Footprint" "UNSW Rocketry Library:CUI_TB002-500-02BE"
 			(at 241.3 156.21 0)
 			(hide yes)
 			(show_name no)
