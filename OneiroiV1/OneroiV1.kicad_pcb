@@ -8704,7 +8704,7 @@
 			(uuid "45eb203e-4a74-46f2-a119-9c33b7e3443e")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/timot/OneDrive/Documents/UNSW/Societies/Rocketry/PCB and Avionics/Nyx-Flight-Computers/UNSW Rocketry Parts/3D models/USB4110GFA.step"
+		(model "../UNSW Rocketry Parts/3D models/USB4110GFA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22804,7 +22804,7 @@
 			(uuid "4f8dc471-edf6-445e-84e3-96b53d769615")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/timot/OneDrive/Documents/UNSW/Societies/Rocketry/PCB and Avionics/Nyx-Flight-Computers/UNSW Rocketry Parts/3D models/MSD-10-C.step"
+		(model "../UNSW Rocketry Parts/3D models/MSD-10-C.step"
 			(offset
 				(xyz 0 0 9)
 			)
@@ -33082,7 +33082,7 @@
 			(uuid "77e89595-b4a0-420d-ad74-4085c1f2a45e")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/timot/OneDrive/Documents/UNSW/Societies/Rocketry/PCB and Avionics/Nyx-Flight-Computers/UNSW Rocketry Parts/3D models/SOIC_09DY-T1-GE3_VIS.step"
+		(model "../UNSW Rocketry Parts/3D models/SOIC_09DY-T1-GE3_VIS.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33657,7 +33657,7 @@
 			(uuid "d6d81cf4-c7f6-4ac9-8282-fe7a677499d8")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/timot/OneDrive/Documents/UNSW/Societies/Rocketry/PCB and Avionics/Nyx-Flight-Computers/UNSW Rocketry Parts/3D models/MSD-10-C.step"
+		(model "../UNSW Rocketry Parts/3D models/MSD-10-C.step"
 			(offset
 				(xyz 0 0 9)
 			)

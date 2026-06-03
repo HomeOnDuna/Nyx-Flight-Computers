@@ -74,6 +74,22 @@
           "Intended for 2 types of buzzer, not an issue"
         ],
         [
+          "lib_footprint_mismatch|149200000|89798357|6200d746-f630-4a2a-bf72-dd833dde41f8|00000000-0000-0000-0000-000000000000",
+          "Changes for visual design"
+        ],
+        [
+          "lib_footprint_mismatch|151154285|90410888|6a1cb5a1-dbfd-48e8-9639-8937c4eea414|00000000-0000-0000-0000-000000000000",
+          "Changes for visual design"
+        ],
+        [
+          "missing_courtyard|149200000|90200000|6200d746-f630-4a2a-bf72-dd833dde41f8|00000000-0000-0000-0000-000000000000",
+          "Graphic without a footprint"
+        ],
+        [
+          "missing_courtyard|151200000|90200000|6a1cb5a1-dbfd-48e8-9639-8937c4eea414|00000000-0000-0000-0000-000000000000",
+          "Graphic without a footprint"
+        ],
+        [
           "missing_courtyard|152250000|47850000|2a759dc7-edde-4a30-841a-5c1769a1f56a|00000000-0000-0000-0000-000000000000",
           "SIlkscreen logo does not have a footprint to speak of"
         ],
@@ -90,12 +106,60 @@
           "Not needed, weird footprint"
         ],
         [
+          "silk_overlap|127137258|101922500|8c1cfcf9-16b1-4b29-8591-e1d7266ecbe2|e166c682-191b-4b8b-91d6-a28c021cd811",
+          "Best that can be done still legible"
+        ],
+        [
           "silk_overlap|128918800|63217100|0e99eaa9-1389-48ec-8463-59df18b7d712|909bd773-9d17-45e6-86ff-b5eecc270234",
           "Footprint clash, not an actual issue"
         ],
         [
           "silk_overlap|128918800|63590374|909bd773-9d17-45e6-86ff-b5eecc270234|9b967e81-d4e0-42de-92a0-4539f763d74b",
           "Footprint clash, not an actual issue"
+        ],
+        [
+          "silk_overlap|146466419|91799978|a528f6b6-7221-44e5-be44-f849287cfb50|b2a2230f-8c94-452d-a1d7-e156e44a10a9",
+          "Graphic design is intentional"
+        ],
+        [
+          "silk_overlap|146986021|87189255|a8fcece5-6afb-47db-ab93-9bf0eb98f8f6|b2a2230f-8c94-452d-a1d7-e156e44a10a9",
+          "Graphic design is intentional"
+        ],
+        [
+          "silk_overlap|147062538|86626632|b2a2230f-8c94-452d-a1d7-e156e44a10a9|fb5e3ff5-05e3-4461-8f72-8d35941e7e2f",
+          "Graphic design is intentional"
+        ],
+        [
+          "silk_overlap|147200000|93650000|b2a2230f-8c94-452d-a1d7-e156e44a10a9|bdc3006b-6cbc-4afa-ba9c-b376b847b5e8",
+          "Graphic design is intentional"
+        ],
+        [
+          "silk_overlap|147200000|93700000|3b6c038b-f920-44ff-9945-51f9268f39e2|b2a2230f-8c94-452d-a1d7-e156e44a10a9",
+          "Graphic design is intentional"
+        ],
+        [
+          "silk_overlap|149150000|86350000|61f9e3f1-ecf4-412e-bef0-5c90b82c086a|b2a2230f-8c94-452d-a1d7-e156e44a10a9",
+          "Graphic design is intentional"
+        ],
+        [
+          "silk_overlap|150941935|92674194|71f98567-b835-4ceb-8cf0-3fb538949270|b2a2230f-8c94-452d-a1d7-e156e44a10a9",
+          "Graphic design is intentional"
+        ],
+        [
+          "silk_overlap|151440875|92323088|5053a659-21d6-497e-b088-738ca96ed1d4|b2a2230f-8c94-452d-a1d7-e156e44a10a9",
+          "Graphic design is intentional"
+        ],
+        [
+          "silk_overlap|151568782|88030554|77666798-895c-42b0-bf81-6d0c69123c96|b2a2230f-8c94-452d-a1d7-e156e44a10a9",
+          "Graphic design is intentional"
+        ],
+        [
+          "silk_overlap|151800000|88700000|98283171-a70e-4bcf-89d9-963c7b9b2afe|b2a2230f-8c94-452d-a1d7-e156e44a10a9",
+          "Graphic design is intentional"
+        ],
+        [
+          "silk_overlap|152300000|90368294|446fba44-97eb-403a-8818-56e36e692e90|b2a2230f-8c94-452d-a1d7-e156e44a10a9",
+          "Graphic design is intentional"
         ],
         [
           "silk_overlap|157894047|56929819|27ae24bf-165e-459b-b312-a63f3ed09bfb|6a9da198-6817-4819-a21d-85e72d746b3e",
