@@ -2044,6 +2044,170 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "UNSW Rocketry library:EBWA-02-A"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at -5.08 3.302 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "EBWA-02-A"
+				(at -5.08 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "UNSW Rocketry Library:ADAMTECH_EBWA-02-A"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "PARTREV" "A"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "8.5mm"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MANUFACTURER" "AdamTech"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "EBWA-02-A_0_0"
+				(rectangle
+					(start -5.08 -5.08)
+					(end 5.08 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -10.16 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 -2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "UNSW Rocketry library:ESDS302DBVR"
 			(pin_names
 				(offset 0.254)
@@ -3616,146 +3780,6 @@
 						)
 					)
 					(number "G4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "UNSW Rocketry library:TB002-500-02BE"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at -5.58 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "TB002-500-02BE"
-				(at -5.08 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "UNSW Rocketry Library:CUI_TB002-500-02BE"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MANUFACTURER" "CUI"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(symbol "TB002-500-02BE_0_0"
-				(rectangle
-					(start -5.08 -2.54)
-					(end 5.08 5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at -10.16 2.54 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -10.16 0 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -5370,6 +5394,12 @@
 		(uuid "878c6abd-1b77-48cd-bfc7-c443954a8370")
 	)
 	(junction
+		(at 110.49 -39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8a960a73-69dc-49b6-90a3-b5ccd237ec08")
+	)
+	(junction
 		(at 158.75 163.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5512,12 +5542,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e33ab952-e5b3-4b4d-83e9-65c7b0e4f2af")
-	)
-	(junction
-		(at 110.49 -39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e3471930-d2b6-4068-b4d5-b9fa2dbd460d")
 	)
 	(junction
 		(at 168.91 -31.75)
@@ -5782,16 +5806,6 @@
 			(type default)
 		)
 		(uuid "0fbedee5-f713-43ea-9396-c3bed0ed9eef")
-	)
-	(wire
-		(pts
-			(xy 109.22 -41.91) (xy 110.49 -41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1039e288-5061-41e1-aa1b-91717baa1981")
 	)
 	(wire
 		(pts
@@ -6592,6 +6606,16 @@
 			(type default)
 		)
 		(uuid "618bde69-7a91-462a-b3fc-dd80b7c77ae2")
+	)
+	(wire
+		(pts
+			(xy 109.22 -41.91) (xy 110.49 -41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6270e6ed-cbe1-4777-9f42-ad0acebc908d")
 	)
 	(wire
 		(pts
@@ -12332,8 +12356,8 @@
 		)
 	)
 	(symbol
-		(lib_id "UNSW Rocketry library:TB002-500-02BE")
-		(at 120.65 -41.91 0)
+		(lib_id "UNSW Rocketry library:EBWA-02-A")
+		(at 120.65 -39.37 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -12344,7 +12368,7 @@
 		(dnp no)
 		(uuid "5407e361-ce54-4adb-9c04-e5632b3b18d0")
 		(property "Reference" "J13"
-			(at 127 -39.3699 0)
+			(at 127 -36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12355,7 +12379,7 @@
 			)
 		)
 		(property "Value" "TB002-500-02BE"
-			(at 127 -41.9099 0)
+			(at 127 -39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12365,8 +12389,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "UNSW Rocketry Library:CUI_TB002-500-02BE"
-			(at 120.65 -41.91 0)
+		(property "Footprint" "UNSW Rocketry Library:ADAMTECH_EBWA-02-A"
+			(at 120.65 -39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12378,7 +12402,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 -41.91 0)
+			(at 120.65 -39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12389,7 +12413,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 120.65 -41.91 0)
+			(at 120.65 -39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12400,7 +12424,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 120.65 -41.91 0)
+			(at 120.65 -39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12411,8 +12435,8 @@
 				(justify bottom)
 			)
 		)
-		(property "MANUFACTURER" "CUI"
-			(at 120.65 -41.91 0)
+		(property "MANUFACTURER" "AdamTech"
+			(at 120.65 -39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12424,7 +12448,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 120.65 -41.91 0)
+			(at 120.65 -39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12435,7 +12459,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 120.65 -41.91 0)
+			(at 120.65 -39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12446,7 +12470,7 @@
 			)
 		)
 		(property "Purchase-URL" ""
-			(at 120.65 -41.91 0)
+			(at 120.65 -39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12457,7 +12481,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 120.65 -41.91 0)
+			(at 120.65 -39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12465,6 +12489,30 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "PARTREV" "A"
+			(at 120.65 -39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "8.5mm"
+			(at 120.65 -39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 			)
 		)
 		(pin "2"

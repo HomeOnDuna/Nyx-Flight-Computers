@@ -64,6 +64,10 @@
         [
           "missing_courtyard|140802444|93234643|14200328-6c50-4d30-afca-32c9ccf6a475|00000000-0000-0000-0000-000000000000",
           "Logos do not have Footprints lol"
+        ],
+        [
+          "starved_thermal|149200000|70200000|1989a4cb-377b-4924-8f3a-77d23290bcb6|d2ccd58e-417b-46d9-a2df-0961dcd3c6f7|F.Cu",
+          "Thermal relief isn't needed, and is present anyway"
         ]
       ],
       "meta": {
